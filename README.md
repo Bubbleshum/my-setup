@@ -1,2 +1,1 @@
-# my-setup
-My home assistant setup
+# My home assistant set up
